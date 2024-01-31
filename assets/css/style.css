@@ -128,10 +128,11 @@ h1, h2, h3, h4, h5, h6 {
   height: 60px;
 }
 #header .logo {
-  font-size: 34px;
+  font-size: 50px;
   margin: 0;
   padding: 0;
-  font-family: "Montserrat", sans-serif;
+  /* font-family: "Montserrat", sans-serif; */
+  font-family: 'Luxurious Script', cursive;
   font-weight: 700;
   letter-spacing: 3px;
   padding-left: 10px;
