@@ -14,7 +14,7 @@ import { FiFigma, FiCode, FiBox, FiPieChart, FiBarChart, FiCalendar, FiBookmark 
 const Home = () => {
   return (
     <>
-      <PageTemplate title="Home - Collosal">
+      <PageTemplate title="Home - TRAVISASHLEY">
         {/* Banner Section */}
         <section
           className="flex flex-col gap-10 items-center"
