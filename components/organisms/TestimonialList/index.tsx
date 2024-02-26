@@ -43,7 +43,7 @@ const TestimonialList = () => {
             name="Sarah Thompson"
             company="CEO, Tech Innovators Inc."
             testimony={`"
-            TRAVISASHLEY LLC exceeded our expectations. Their custom software solutions streamlined our
+            TRAVISASHLEY exceeded our expectations. Their custom software solutions streamlined our
             operations, boosting efficiency. Exceptional service!
             "`}
           />
@@ -64,7 +64,7 @@ const TestimonialList = () => {
             name="Emily Chen"
             company="E-commerce Manager, TrendyStyles Boutique"
             testimony={`"
-            TRAVISASHLEY LLC's e-commerce solutions enhanced user experience, driving sales and customer satisfaction.
+            TRAVISASHLEY's e-commerce solutions enhanced user experience, driving sales and customer satisfaction.
             "`}
           />
         </SwiperSlide>

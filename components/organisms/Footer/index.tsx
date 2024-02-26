@@ -15,10 +15,6 @@ const Footer = () => {
                 value={`Copyright © ${new Date().getFullYear()}`}
                 textStyle="SectionParagraph"
               />
-              <Text
-                value={`Design By TRAVISASHLEY LLC`}
-                textStyle="SectionParagraph"
-              />
             </div>
           </div>
           <div className="flex-col w-1/4 space-y-5">
@@ -37,7 +33,7 @@ const Footer = () => {
             <Text value="3995 Howell Park RD <br/>
 Duluth Georgia, 30096<br/>
 United States<br/>
-Phone: +1 470 227 9130<br/>
+Phone: +1 (470) 227 9130<br/>
 Email: lynn.smith@travisashley.com" textStyle="FooterLinkGroupTitle" />
           </div>
           <div className="flex-col w-1/4 space-y-5">

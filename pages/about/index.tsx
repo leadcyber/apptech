@@ -43,7 +43,7 @@ const About = () => {
         >
           <SectionSentence
             badge="STATISTICS"
-            title="Explore the quantitative essence of TRAVISASHLEY LLC's commitment"
+            title="Explore the quantitative essence of TRAVISASHLEY's commitment"
           />
         </div>
         <div className="w-full grid gap-14">

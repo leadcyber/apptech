@@ -22,8 +22,8 @@ const Home = () => {
         >
           <div className="w-10/12 md:w-8/12 text-center">
             <PageSentence
-              title="Digital Excellence with TRAVISASHLEY LLC"
-              description="Discover the art of seamless business operations with TRAVISASHLEY LLC. From custom software development to cloud computing services, we redefine possibilities. Elevate your digital presence, optimize resources, and unlock a future where your business effortlessly adapts and excels. Choose TRAVISASHLEY LLC – where innovation meets limitless potential."
+              title="Digital Excellence with TRAVISASHLEY"
+              description="Discover the art of seamless business operations with TRAVISASHLEY. From custom software development to cloud computing services, we redefine possibilities. Elevate your digital presence, optimize resources, and unlock a future where your business effortlessly adapts and excels. Choose TRAVISASHLEY – where innovation meets limitless potential."
               badge="EMPOWERING TOMORROW'S SUCCESS TODAY"
             />
           </div>
@@ -42,21 +42,21 @@ const Home = () => {
           <div data-aos="fade-up">
             <FeatureCard
               title="Our Mission"
-              description="At TRAVISASHLEY LLC, our mission is to empower businesses through innovative software solutions. We strive to exceed expectations, delivering tailored technology that enhances efficiency, fosters growth, and transforms challenges into opportunities."
+              description="At TRAVISASHLEY, our mission is to empower businesses through innovative software solutions. We strive to exceed expectations, delivering tailored technology that enhances efficiency, fosters growth, and transforms challenges into opportunities."
               icon={<FiBarChart />}
             />
           </div>
           <div data-aos="fade-up">
             <FeatureCard
               title="Our Plan"
-              description="Our vision at TRAVISASHLEY LLC is to be a global leader in shaping the future of digital experiences. We aspire to create impactful solutions that inspire positive change, driving businesses towards unparalleled success in the ever-evolving technological landscape."
+              description="Our vision at TRAVISASHLEY is to be a global leader in shaping the future of digital experiences. We aspire to create impactful solutions that inspire positive change, driving businesses towards unparalleled success in the ever-evolving technological landscape."
               icon={<FiBookmark />}
             />
           </div>
           <div data-aos="fade-up">
             <FeatureCard
               title="Our Vision"
-              description="Our strategic plan revolves around continuous innovation and client-centricity. We are committed to staying ahead of industry trends, fostering a collaborative approach, and delivering high-quality, scalable solutions. TRAVISASHLEY LLC's plan is to be your trusted partner on the journey to digital excellence."
+              description="Our strategic plan revolves around continuous innovation and client-centricity. We are committed to staying ahead of industry trends, fostering a collaborative approach, and delivering high-quality, scalable solutions. TRAVISASHLEY's plan is to be your trusted partner on the journey to digital excellence."
               icon={<FiCalendar />}
             />
           </div>

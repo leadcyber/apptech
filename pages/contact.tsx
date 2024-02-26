@@ -27,7 +27,7 @@ const Contact = () => {
               />
               <IconListItem
                 label="Phone"
-                value="+1 470 227 9130"
+                value="+1 (470) 227 9130"
                 icon={<FiPhoneCall />}
               />
               <IconListItem
