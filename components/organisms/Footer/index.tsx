@@ -30,11 +30,11 @@ const Footer = () => {
           </div>
           <div className="flex-col w-1/4 space-y-5">
             <Text value="CONTACT US" textStyle="FooterLinkGroupTitle" />
-            <Text value="3995 Howell Park RD <br/>
-Duluth Georgia, 30096<br/>
+            <Text value="1630 PEACHTREE LN E <br/>
+MOBILE Alabama, 36618<br/>
 United States<br/>
-Phone: +1 (470) 227 9130<br/>
-Email: lynn.smith@travisashley.com" textStyle="FooterLinkGroupTitle" />
+Phone: +1 (701) 314 3433<br/>
+Email: ashley.gulley@travisdeanashley.org" textStyle="FooterLinkGroupTitle" />
           </div>
           <div className="flex-col w-1/4 space-y-5">
             <Text value="As a leading software company, we specialize in crafting custom solutions for web and mobile development, ensuring innovation, reliability, and transformative impact. Join us in redefining possibilities in the ever-evolving world of technology." textStyle="FooterLinkGroupTitle" />

@@ -10,7 +10,7 @@ import { FiMail, FiMapPin, FiPhoneCall } from 'react-icons/fi'
 const Contact = () => {
   return (
     <>
-      <PageTemplate title='Contact - TRAVISASHLEY'>
+      <PageTemplate title='Contact - TRAVIS DEAN ASHLEY'>
         <section className="grid grid-cols-1 place-items-center gap-10 lg:gap-5 lg:grid-cols-2">
           <aside className="w-full sm:w-10/12 md:w-8/12 grid grid-cols-1 gap-12 sm:place-items-center lg:w-full lg:place-items-start" data-aos="fade-up-right">
             <div className="sm:text-center lg:text-left">
@@ -22,17 +22,17 @@ const Contact = () => {
             <div className="space-y-6">
               <IconListItem
                 label="Address"
-                value="3995 Howell Park RD, Duluth Georgia, 30096"
+                value="1630 PEACHTREE LN E, MOBILE Alabama, 36618"
                 icon={<FiMapPin />}
               />
               <IconListItem
                 label="Phone"
-                value="+1 (470) 227 9130"
+                value="+1 (701) 314 3433"
                 icon={<FiPhoneCall />}
               />
               <IconListItem
                 label="Email"
-                value="lynn.smith@travisashley.com"
+                value="ashley.gulley@travisdeanashley.org"
                 icon={<FiMail />}
               />
             </div>

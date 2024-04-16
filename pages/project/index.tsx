@@ -32,7 +32,7 @@ const Project = () => {
     },
   ]
   return (
-    <PageTemplate title="Project - TRAVISASHLEY">
+    <PageTemplate title="Project - TRAVIS DEAN ASHLEY">
       <section className="flex flex-col items-center md:flex-row md:justify-between">
         <aside
           className="w-full place-items-center"

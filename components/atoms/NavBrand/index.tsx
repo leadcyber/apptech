@@ -17,7 +17,7 @@ const NavBrand = () => {
         <Link href={'/'} passHref>
           <div className="flex w-fit h-fit">
             <Image src={'/images/favicon.png'} width='30px' height={30} alt='company brand' loading='lazy' />
-            <Text value="RAVISASHLEY" textStyle="PageSubtitle" />
+            <Text value="RAVIS DEAN ASHLEY" textStyle="PageSubtitle" />
           </div>
         </Link>
       </div>
